@@ -48,7 +48,7 @@ AI学习框架与科学计算大作业
 - **损失函数**：使用均方误差（MSE）作为损失函数，衡量模型预测结果与真实高分辨率影像之间的差异。
 ## 3. 具体实现
 
-代码仓库：[https://github.com//ouyangzehong/DEM_SRNet]
+代码仓库：https://github.com//ouyangzehong/DEM_SRNet
 
 ### 3.1 环境准备
 
